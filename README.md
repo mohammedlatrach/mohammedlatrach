@@ -2,10 +2,6 @@
 <h3 align="center">A FULL STACK DEV.</h3>
 <h3 align="center"> ✨I’m looking to collaborate on <strong> C, JavaScript, JAVA, PHP & SQL</strong> Stuffs.</h3>
 <img  src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
-
-
-
-
 <h2 align="center">Languages and Tools</h2>
 <p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
